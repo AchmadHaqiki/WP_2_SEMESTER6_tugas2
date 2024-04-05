@@ -22,7 +22,7 @@ class Contoh1 extends CI_Controller {
 	{
 		//$this->load->view('layouts/contoh1');
 		echo "<h1>Perkenalkan</h1>";
-		echo "Halo! Saya Cherry Citra Cahyaning";
+		echo "Halo! Saya Achmad Haqiki";
 	}
 
 	
